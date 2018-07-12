@@ -1,5 +1,6 @@
-Creating a component to easily fetch list with react and typescript.
-Purely technical, no design.
+# Easy fetch
 
-yarn install
-yarn start
+React/Typsecript component to easily fecth lists. Purely technical, no design.
+
+* yarn install
+* yarn start
